@@ -1,0 +1,7 @@
+name: warpgui
+author: DerNanny
+version: 0.1
+main: net.royalguardians.warpsystem.WarpSystem
+depend: [Multiverse-Core]
+commands:
+  warp:
